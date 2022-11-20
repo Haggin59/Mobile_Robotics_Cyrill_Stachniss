@@ -10,4 +10,8 @@ Course Website: https://www.ipb.uni-bonn.de/online-training-robotics/
 I. Basics:
   1. 3D Coordinates and Representations of Rotations
   
-     Lecture link: https://youtu.be/YXGUGSAv09A
+     Lecture link: https://youtu.be/YXGUGSAv09A  
+     • Operations on vectors  
+     • Rotation matrices
+     
+     

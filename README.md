@@ -12,6 +12,7 @@ I. Basics:
   
      Lecture link: https://youtu.be/YXGUGSAv09A  
      • Operations on vectors  
-     • Rotation matrices
+     • Rotation matrices  
+     • Euler angles
      
      
